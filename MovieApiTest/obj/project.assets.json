@@ -10090,11 +10090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\movie-web-service\\MovieApiTest\\MovieApiTest.csproj",
+      "projectUniqueName": "D:\\LexiconCodeTest\\MovieApiTest\\MovieApiTest.csproj",
       "projectName": "MovieApiTest",
-      "projectPath": "D:\\movie-web-service\\MovieApiTest\\MovieApiTest.csproj",
+      "projectPath": "D:\\LexiconCodeTest\\MovieApiTest\\MovieApiTest.csproj",
       "packagesPath": "C:\\Users\\priya\\.nuget\\packages\\",
-      "outputPath": "D:\\movie-web-service\\MovieApiTest\\obj\\",
+      "outputPath": "D:\\LexiconCodeTest\\MovieApiTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\priya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10111,8 +10111,8 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "D:\\movie-web-service\\MovieWebApp\\MovieWebApp.csproj": {
-              "projectPath": "D:\\movie-web-service\\MovieWebApp\\MovieWebApp.csproj"
+            "D:\\LexiconCodeTest\\MovieWebApp\\MovieWebApp.csproj": {
+              "projectPath": "D:\\LexiconCodeTest\\MovieWebApp\\MovieWebApp.csproj"
             }
           }
         }
